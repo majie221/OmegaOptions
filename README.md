@@ -1,2 +1,2 @@
 # OmegaOptions
-config for Proxy SwitchyOmega (backup)
+a backup of my [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) config
